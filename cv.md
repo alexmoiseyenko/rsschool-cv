@@ -24,7 +24,7 @@ Although I don't have a lot of commercial experience, I have much more valuable 
 
 ## Experience
 Company, Position | Durations
-------- | ---------
+----------------- | ---------
 **Insspring**, Front-end Intern | February - April 2020 
 **Syberry**, Front-end Student | September - October 2019
 
