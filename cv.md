@@ -39,5 +39,5 @@ Syberry | September - October 2019 | Front-end Student
 ## English
 
 ### Streamline 
-* Intermediate level (2017-2019)
+* Intermediate level (2017-2018)
 * Pre-intermediate level (2017)
