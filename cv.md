@@ -9,7 +9,9 @@ Phone | +375 (29) 3405926
 Telegram/Skype | Lessmond
 
 ## About
-I’m junior JS dev who is currently looking for new opportunities. I’m passionate about software development and web technologies. 
+I’m junior JS dev who is currently looking for new opportunities. I’m passionate about software development and web technologies.
+
+For now, I want to improve my current knowledge and learn a lot of new things, from both frontend and backend sides. I love to learn new things, whether it's about computer science or about travel, economics, etc. I believe that a person should constantly explore the world around them and always need to learn something new.
 
 Although I don't have a lot of commercial experience, I have much more valuable qualities - curiosity and strong desire to learn. I hope I can grow up with you as a professional.
 
