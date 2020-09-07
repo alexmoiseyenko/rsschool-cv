@@ -23,10 +23,11 @@ Although I don't have a lot of commercial experience, I have much more valuable 
 * Others: SCSS, PostCSS, Gulp, Git, Stylelint, ESLint
 
 ## Experience
-Company, Position | Durations
------------------ | ---------
-**Insspring**, Front-end Intern | February - April 2020 
-**Syberry**, Front-end Student | September - October 2019
+
+Company | Durations | Position
+------- | --------- | --------
+Insspring | February - April 2020 | Front-end Intern
+Syberry | September - October 2019 | Front-end Student
 
 ## Education 
 
