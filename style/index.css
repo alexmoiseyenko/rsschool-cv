@@ -25,18 +25,18 @@ main {
   background-color: #f0f0f0;
 }
 
-.contacts {
+.social-networks {
   display: flex;
   margin: 0;
   padding: 25px 0;
 }
 
-.contacts-item {
+.social-networks-item {
   padding-right: 25px;
   list-style: none;
 }
 
-.contacts-logo {
+.social-networks-logo {
   width: 25px;
   padding: 5% 10%;
 }
@@ -55,4 +55,23 @@ main {
 .about-me-heading {
   border-bottom: 2px solid black;
   padding: 70px 15px 25px
+}
+
+.contacts {
+  color: #272727;
+  font-weight: bold;
+}
+
+.contacts-list {
+  padding-left: 0;
+}
+
+.contacts-item {
+  padding: 5px 0;
+  list-style: none;
+}
+
+.contacts-link {
+  color: #272727;
+  text-decoration: none;
 }
