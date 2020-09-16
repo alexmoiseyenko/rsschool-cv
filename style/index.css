@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: Raleway, sans-serif;
+  color: #848484;
+}
+
+h1 {
+  color: #272727;
+  font-size: 78px;
+  white-space: nowrap;
+}
+
+main {
+  margin: 50px;
+}
+
+.right-side {
+  width: 50%;
+  padding: 20px 50px;
+  box-sizing: border-box;
+  background-color: #f0f0f0;
+}
+
+.contacts {
+  display: flex;
+  margin: 0;
+  padding: 25px 0;
+}
+
+.contacts-item {
+  padding-right: 25px;
+  list-style: none;
+}
+
+.contacts-logo {
+  width: 25px;
+  padding: 5% 10%;
+}
+
+.main-info-image {
+  position: relative;
+  left: 310px;
+  width: 300px;
+  border-radius: 50%;
+}
