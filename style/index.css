@@ -4,8 +4,12 @@ body {
   color: #848484;
 }
 
-h1 {
+h1,
+h2 {
   color: #272727;
+}
+
+h1 {
   font-size: 78px;
   white-space: nowrap;
 }
@@ -42,4 +46,13 @@ main {
   left: 310px;
   width: 300px;
   border-radius: 50%;
+}
+
+.about-me {
+  width: 70%;
+}
+
+.about-me-heading {
+  border-bottom: 2px solid black;
+  padding: 70px 15px 25px
 }
