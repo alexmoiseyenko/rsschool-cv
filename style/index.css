@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Raleway';
+  src:url('../fonts/raleway/Raleway-Medium.ttf') format('truetype');
+}
+
 body {
   margin: 0;
   font-family: Raleway, sans-serif;
@@ -12,7 +17,6 @@ h3 {
 
 h1 {
   font-size: 58px;
-  white-space: nowrap;
 }
 
 main {
@@ -50,7 +54,7 @@ main {
 
 .main-info-image {
   position: relative;
-  left: 310px;
+  left: 50%;
   width: 300px;
   border-radius: 50%;
 }
