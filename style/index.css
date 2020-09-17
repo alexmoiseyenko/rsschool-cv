@@ -22,7 +22,7 @@ h1 {
 main {
   display: flex;
   justify-content: space-between;
-  margin: 50px;
+  margin: 20px 50px;
 }
 
 .right-side,
@@ -102,7 +102,7 @@ main {
   }
 }
 
-.title-section {
+.info-title {
   border-bottom: 2px solid black;
   padding: 70px 15px 25px;
   margin-bottom: 50px;
@@ -127,27 +127,23 @@ main {
   text-decoration: none;
 }
 
-.experience-position {
+.info-position {
   color: #272727;
   font-weight: bold;
 }
 
-.experience-company {
+.info-institution {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
 }
 
-.experience-duration {
+.info-duration {
   padding-left: 25px;
 }
 
-@media screen and (max-width: 768px) {
-
-}
-
 @media screen and (max-width: 414px) {
-  .experience-company {
+  .info-institution {
     align-items: center;
   }
 }
