@@ -1,0 +1,150 @@
+@font-face {
+  font-family: 'Raleway';
+  src:url('../fonts/raleway/Raleway-Medium.ttf') format('truetype');
+}
+
+body {
+  margin: 0;
+  font-family: Raleway, sans-serif;
+  color: #848484;
+}
+
+h1,
+h2,
+h3 {
+  color: #272727;
+}
+
+h1 {
+  font-size: 58px;
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 50px;
+}
+
+.right-side,
+.left-side {
+  width: 45%;
+  padding: 20px 200px 20px 70px;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 1024px) {
+  .right-side,
+  .left-side {
+    padding: 20px 100px 20px 30px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  main {
+    flex-direction: column;
+  }
+  .right-side,
+  .left-side {
+    width: 100%;
+    padding: 20px 30px 20px 20px;
+  }
+}
+
+@media screen and (max-width: 414px) {
+  h1 {
+    font-size: 38px;
+  }
+}
+
+.right-side {
+  background-color: #f0f0f0;
+}
+
+.social-networks {
+  display: flex;
+  margin: 0;
+  padding: 25px 0;
+}
+
+.social-networks-item {
+  padding-right: 25px;
+  list-style: none;
+}
+
+.social-networks-logo {
+  width: 25px;
+  padding: 5% 10%;
+}
+
+.main-info-image {
+  position: relative;
+  left: 50%;
+  width: 300px;
+  border-radius: 50%;
+}
+
+@media screen and (max-width: 1024px) {
+  .main-info-image {
+    left: 20%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .main-info-image {
+    left: 50px;
+  }
+}
+
+@media screen and (max-width: 414px) {
+  .main-info-image {
+    left: 20px;
+    width: 200px;
+  }
+}
+
+.info-title {
+  border-bottom: 2px solid black;
+  padding: 70px 15px 25px;
+  margin-bottom: 50px;
+}
+
+.contacts {
+  color: #272727;
+  font-weight: bold;
+}
+
+.contacts-list {
+  padding-left: 0;
+}
+
+.contacts-item {
+  padding: 5px 0;
+  list-style: none;
+}
+
+.contacts-link {
+  color: #272727;
+  text-decoration: none;
+}
+
+.info-position {
+  color: #272727;
+  font-weight: bold;
+}
+
+.info-institution {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.info-duration {
+  padding-left: 25px;
+}
+
+@media screen and (max-width: 414px) {
+  .info-institution {
+    align-items: center;
+  }
+}
+
